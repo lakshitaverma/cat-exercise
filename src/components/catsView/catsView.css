@@ -1,0 +1,6 @@
+.cats-view {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  align-items: center;
+  justify-items: center;
+}
